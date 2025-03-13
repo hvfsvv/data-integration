@@ -37,6 +37,3 @@ Ce projet se concentre sur l'intégration et l'analyse de données liées au box
 - Analyse des tendances au box-office
 - Visualisation des corrélations entre budget, note et revenus
 
-## Auteur
-L'équipe du projet
-
